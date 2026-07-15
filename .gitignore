@@ -4,3 +4,6 @@
 
 # jupyter files
 *.jupyter*
+
+# data files
+*.parquet
